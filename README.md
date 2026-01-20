@@ -1,4 +1,4 @@
-# 📚 Bookstore Frontend
+# 📚 Nexora Frontend
 
 A production-ready bookstore web application frontend built with modern React tools.
 
